@@ -124,8 +124,8 @@ st.write(
 Pyspark.\n 
 - ► stored the output of the pyspark pipelines using parquet format in azure blob storage.
 - ► Used 2 different data sources(oracle database and remote storage) to read the input data in PowerBI.\n
-- ► Build KPIs and Visualizations in PowerBI for store-level and retailer-level input data.
-- ► wrote analytical SQL queries to fetch timeseries data. 
+- ► Build KPIs and Visualizations in PowerBI for store-level and retailer-level input data.\n
+- ► wrote analytical SQL queries to fetch timeseries data. \n
 Tools: **PowerBI,oracle SQL,python,git,azure-blob**
 """)
 
@@ -133,7 +133,7 @@ st.write(
     """🚧 **Global Item Xcode App**
 - ► Wrote the data extraction and transformation pipelines to build country level product info vocab.\n
 - ► Developed and schedule the data pipelines using pyspark in databricks platform.\n
-- ► stored the output of data pipelines in azure blob in parquet format.
+- ► stored the output of data pipelines in azure blob in parquet format.\n
 - ► Led the Django UI App development for end user inputs and product coding activities.\n
 - ► Used celery workers to handle background product search tasks and offload the UI.\n 
 - ► Deployed the the Django application in remote linux on-prem machine.\n
