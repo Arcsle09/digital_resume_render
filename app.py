@@ -72,7 +72,6 @@ st.write(
     """
 ✔️ Technology professional having 5 + Years of experience in all phases of agile software development lifecycle. \n
 ✔️ 5 Years of strong hands on experience building,deploying and maintaining the data extraction,transformation,validation and ingestion pipelines for large datasets using **Python, SQL and Pyspark**.\n
-✔️ 3 Years of hands on experience developing,deploying and maintaining REST APIs using **Flask and Django**. \n
 ✔️ 3 + Years of hands on experience developing & deploying small/mid/large web scraping solutions using **Scrapy, Requests ,Selenium, Beautifulsoup and APIs**. \n
 ✔️ 2 + Years of working experience on performing EDA and building classification models for in house data science problems. \n
 ✔️ 1 + Years of experience developing data vizualizations using PowerBI and Plotly \n
@@ -92,7 +91,7 @@ st.write(
     🗄️ Databases: **Oracle | Snowflake | MySQL** \n
     🕸️ REST API Frameworks: **Django | Flask** \n
     📚 Machine Learning: **Tree Based Classifiers | StackEnsamble Classifier | Azure ML** \n
-    🚀 DevOps Tools: **Git | Bitbucket | Docker | Jenkins**\n
+    🚀 DevOps Tools: **Git | Bitbucket | Docker**\n
     🌩️ Cloud Services: **Databricks | Blob | ADF | S3 | BigQuery** \n
     📅 Project Tracking/Docs Tools: **Jira | Confluence** \n
 
