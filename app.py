@@ -141,6 +141,14 @@ Tools: **Databricks, Pyspark, polars, Azure-Blob, PostgresDB, Python, shell, git
 """)
 
 st.write(
+    """🚧 **Ecommerce Data Validation**
+- ► Implemented various validation checks for large web-scraped data designed by Data Science Team
+- ► Developed flask UI for in-house data operations team to operate these checks before the data ingested to production databases.
+- ► developed data validation pipelines using python-polars dataframe library.
+Tools: **Python, Polars, Docker, shell, Azure-Blob,git**
+""")
+
+st.write(
     """🚧 **Ecommerce Web Data Acquisition**
 - ► Developing and Deploying Small/Mid/Large Scale in-house Web Scrapers for E-commerce Data Acquisition Ops.\n
 - ► Developed the web-scrapers for south korea based websites in order to scrape products(Avg 1 million) info (categories,price,sales,name) and ingested cleaned data to postgres DB.\n
