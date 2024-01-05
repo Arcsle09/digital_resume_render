@@ -142,9 +142,10 @@ Tools: **Databricks, Pyspark, polars, Azure-Blob, PostgresDB, Python, shell, git
 
 st.write(
     """🚧 **Ecommerce Data Validation**
-- ► Implemented various validation checks for large web-scraped data designed by Data Science Team
-- ► Developed flask UI for in-house data operations team to operate these checks before the data ingested to production databases.
-- ► developed data validation pipelines using python-polars dataframe library.
+- ► Implemented various validation checks for large web-scraped data designed by Data Science Team\n
+- ► Developed flask UI for in-house data operations team to operate these checks before the data ingested to production databases.\n
+- ► developed data validation pipelines using python-polars dataframe library.\n
+- ► wrote unit test cases for validation modules using pytest. \n
 Tools: **Python, Polars, Docker, shell, Azure-Blob,git**
 """)
 
