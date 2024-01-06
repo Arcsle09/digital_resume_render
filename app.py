@@ -152,7 +152,7 @@ Tools: **Python, Polars, Docker, shell, Azure-Blob,git**
 st.write(
     """🚧 **Ecommerce Web Data Acquisition**
 - ► Developing and Deploying Small/Mid/Large Scale in-house Web Scrapers for E-commerce Data Acquisition Ops.\n
-- ► Developed the web-scrapers for south korea based websites in order to scrape products(Avg 1 million) info (categories,price,sales,name) and ingested cleaned data to postgres DB.\n
+- ► Developed the web-scrapers for south korea based websites in order to scrape products(Avg 2 million) info (categories,price,sales,name) and ingested cleaned data to postgres DB.\n
 - ► Integrated Selenium and Scrapy libraries to scrape the javascript enabled contents of the websites.\n
 - ► Developed the Web Crawler for UK based Retailer Sites to scrape the Nutrition and Ingredients Details of thousands of products.\n
 - ► Developed and deployed various webscrapers for Italy based retailer websites in order to download the promotional flyers(Avg 1000 flyers per week).\n
