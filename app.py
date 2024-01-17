@@ -14,7 +14,7 @@ PAGE_TITLE = "Digital CV | Rakesh Chaudhary"
 PAGE_ICON = "🌏"
 NAME = "Rakesh Chaudhary"
 DESCRIPTION = """
-**Senior Analyst - Data Analytics & Engineering**
+**Senior Analyst - Data Engineering and Analytics**
 """
 EMAIL = "arcsle09plus@gmail.com"
 SOCIAL_MEDIA = {
@@ -23,12 +23,6 @@ SOCIAL_MEDIA = {
     "Project Euler":"https://projecteuler.net/profile/arcsle09.png",
     "SAFe® 6 SCM":"https://www.credly.com/badges/2fdebb68-df7f-47a9-bb2e-d801bb685d9a"
 }
-# PROJECTS = {
-#     "🏆 Sales Dashboard - Comparing sales across three stores": "https://youtu.be/Sb0A9i6d320",
-#     "🏆 Income and Expense Tracker - Web app with NoSQL database": "https://youtu.be/3egaMfE9388",
-#     "🏆 Desktop Application - Excel2CSV converter with user settings & menubar": "https://youtu.be/LzCfNanQ_9c",
-#     "🏆 MyToolBelt - Custom MS Excel add-in to combine Python & Excel": "https://pythonandvba.com/mytoolbelt/",
-# }
 
 st.set_page_config(page_icon=PAGE_ICON,page_title=PAGE_TITLE)
 
@@ -118,6 +112,29 @@ Tools: **Tree based classifiers(imblearn),Azure ML,polars,python,git,azure-blob*
 """)
 
 st.write(
+    """🚧 **Ecommerce Web Data Acquisition**
+- ► Developing and Deploying Small/Mid/Large Scale in-house Web Scrapers for E-commerce Data Acquisition Ops.\n
+- ► Developed the web-scrapers for south korea based websites in order to scrape products(Avg 2 million) info (categories,price,sales,name) and ingested cleaned data to postgres DB.\n
+- ► Integrated Selenium and Scrapy libraries to scrape the javascript enabled contents of the websites.\n
+- ► Developed the Web Crawler for UK based Retailer Sites to scrape the Nutrition and Ingredients Details of thousands of products.\n
+- ► Developed and deployed various webscrapers for Italy based retailer websites in order to download the promotional flyers(Avg 1000 flyers per week).\n
+- ► Prepared the documentations and guidelines to troubleshoot webscrapers. \n
+- ► Trained and mentored junior developers for future maintenance,enhancements and developments. \n
+Tools: **PostgresDB, SQL, Python, Selenium, Scrapy, Pandas, Docker, shell, Azure-Blob,git**
+""")
+
+st.write(
+    """🚧 **Optical Web Crawler**
+- ► Designed and Developed the in-house Web Crawler for Nielsen Global Client to refresh the data for antibacterial and disinfectant products in databases.
+- ► Deploy the web crawler in remote Linux VMs to capture the product images for 32 countries for the given list of products(Avg 50k for each country).
+- ► designed and developed the postgres Database to store the data for 32 countries.
+- ► The Bot crawls through images to get the best image, extracts the text from the images(OCR) and ingest the cleaned data into postgres DB.
+- ► Implemented python multiprocess Method on OCR algorithm to boost the OCR process.\n
+- ► wrote unit test cases for OCR and webcrawling modules. \n
+Tools: **PostgresDB, SQL, Python, Selenium, pandas, EasyOCR, git, Docker, shell**
+""")
+
+st.write(
     """🚧 **Retailer Data Health Dashboard**
 - ► Developed,deployed & schedule rule-based data extraction & transformation pipelines using
 Pyspark.\n 
@@ -125,7 +142,7 @@ Pyspark.\n
 - ► Used 2 different data sources(oracle database and remote storage) to read the input data in PowerBI.\n
 - ► Build KPIs and Visualizations in PowerBI for store-level and retailer-level input data.\n
 - ► wrote analytical SQL queries to fetch timeseries data. \n
-Tools: **PowerBI,oracle SQL,python,git,azure-blob**
+Tools: **PowerBI,oracle SQL,pyspark,git,azure-blob**
 """)
 
 st.write(
@@ -147,29 +164,6 @@ st.write(
 - ► developed data validation pipelines using python-polars dataframe library.\n
 - ► wrote unit test cases for validation modules using pytest. \n
 Tools: **Python, Polars, Docker, shell, Azure-Blob,git**
-""")
-
-st.write(
-    """🚧 **Ecommerce Web Data Acquisition**
-- ► Developing and Deploying Small/Mid/Large Scale in-house Web Scrapers for E-commerce Data Acquisition Ops.\n
-- ► Developed the web-scrapers for south korea based websites in order to scrape products(Avg 2 million) info (categories,price,sales,name) and ingested cleaned data to postgres DB.\n
-- ► Integrated Selenium and Scrapy libraries to scrape the javascript enabled contents of the websites.\n
-- ► Developed the Web Crawler for UK based Retailer Sites to scrape the Nutrition and Ingredients Details of thousands of products.\n
-- ► Developed and deployed various webscrapers for Italy based retailer websites in order to download the promotional flyers(Avg 1000 flyers per week).\n
-- ► Prepared the documentations and guidelines to troubleshoot webscrapers. \n
-- ► Trained and mentored junior developers for future maintenance,enhancements and developments. \n
-Tools: **PostgresDB, SQL, Python, Selenium, Scrapy, Pandas, Docker, shell, Azure-Blob,git**
-""")
-
-st.write(
-    """🚧 **Optical Web Crawler**
-- ► Designed and Developed the in-house Web Crawler for Nielsen Global Client to refresh the data for antibacterial and disinfectant products in databases.
-- ► Deploy the web crawler in remote Linux VMs to capture the product images for 32 countries for the given list of products(Avg 50k for each country).
-- ► designed and developed the postgres Database to store the data for 32 countries.
-- ► The Bot crawls through images to get the best image, extracts the text from the images(OCR) and ingest the cleaned data into postgres DB.
-- ► Implemented python multiprocess Method on OCR algorithm to boost the OCR process.\n
-- ► wrote unit test cases for OCR and webcrawling modules. \n
-Tools: **PostgresDB, SQL, Python, Selenium, pandas, EasyOCR, git, Docker, shell**
 """)
 
 st.write(
