@@ -86,7 +86,7 @@ st.write(
     🕸️ REST API Frameworks: **Django | Flask** \n
     📚 Machine Learning: **Tree Based Classifiers | StackEnsamble Classifier | Azure ML** \n
     🚀 DevOps Tools: **Git | Bitbucket | Docker**\n
-    🌩️ Cloud Services: **Databricks | Blob | ADF | S3 | BigQuery** \n
+    🌩️ Cloud Services: **Databricks | Blob | ADF | S3** \n
     📅 Project Tracking/Docs Tools: **Jira | Confluence** \n
 
     """
@@ -138,6 +138,7 @@ st.write(
     """🚧 **Retailer Data Health Dashboard**
 - ► Developed,deployed & schedule rule-based data extraction & transformation pipelines using
 Pyspark.\n 
+- ► Used 2 different data sources (oracle database and remote on-prem storage) for data ingestion using ADF.
 - ► stored the output of the pyspark pipelines using parquet format in azure blob storage.
 - ► Used 2 different data sources(oracle database and remote storage) to read the input data in PowerBI.\n
 - ► Build KPIs and Visualizations in PowerBI for store-level and retailer-level input data.\n
