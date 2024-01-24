@@ -83,7 +83,6 @@ st.write(
     🗃️ Data Transformation APIs: **Pyspark | Pandas | Polars** \n
     📊 Data Visulization: **PowerBI | Plotly** \n
     🗄️ Databases: **Oracle | Snowflake | MySQL** \n
-    🕸️ REST API Frameworks: **Django | Flask** \n
     📚 Machine Learning: **Tree Based Classifiers | StackEnsamble Classifier | Azure ML** \n
     🚀 DevOps Tools: **Git | Bitbucket | Docker**\n
     🌩️ Cloud Services: **Databricks | Blob | ADF | S3** \n
@@ -107,7 +106,8 @@ st.write(
 - ► Performed EDA and visualizations for each country dataset to understand the distributions and feature importance.\n
 - ► Explored various feature selection techniques to find the most impactful features.\n
 - ► performed basic hyper-parameter tuning techniques to find the best model parameters.\n
-- ► Used Azure ML service to perform machine learning steps for large datasets.\n
+- ► Used Azure ML service to perform machine learning operations for large datasets.\n
+- ► Explored Azure Anomaly Detector Cognitive services to conduct POC.
 Tools: **Tree based classifiers(imblearn),Azure ML,polars,python,git,azure-blob**
 """)
 
