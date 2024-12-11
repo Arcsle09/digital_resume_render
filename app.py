@@ -95,9 +95,22 @@ st.write(
 st.write('\n')
 st.subheader("Professional Work History")
 st.write("---")
-url = 'https://nielseniq.com/global/en/'
-st.write("🧑‍💼", "**Senior Analyst | [NielsenIQ](%s)**" % url)
-st.write("11/2018 - Present")
+url1 = 'https://www.sc.com/en/'
+st.write("🧑‍💼", "**Manager-TB Cash Analytics | [Standard Chartered Bank](%s)**" % url1)
+
+st.write(
+    """🚧 **Cash Client Performance View**
+- ► Architected, Developed and Deployed Reporting Application to monitor the Bank's Cash Revenue (NFI and NII) and Liabilities for Corporate Clients.
+- ► Automated data extraction from Bank's Internal Systems (Oracle BI and HDFS) using SQL, Pyspark and Shell Scripting.
+- ► Transformed the Data using Python-Polars library to build cost effective data processing modules.
+- ► Discovered the excel workbook level Encryption Method in Python to meet bank compliance.
+- ► 2000 Analytical Sales Level Reports are auto-sent to Bank Sales Executives and auto-shared the 42 Country Level Reports to Country Sales Leadership in sharepoint.
+Tools: **Python,Pyspark,Docker,GIT,JFROG,HDFS,Polars,msoffcrypto,shell**
+""")
+
+url2 = 'https://nielseniq.com/global/en/'
+st.write("🧑‍💼", "**Senior Analyst | [NielsenIQ](%s)**" % url2)
+st.write("11/2018 - 05-2024")
 
 st.write(
     """🚧 **Store Level Sales Data Classification**
