@@ -64,8 +64,8 @@ st.write('\n')
 st.subheader("Experience Summary")
 st.write(
     """
-✔️ Technology professional having 5 + Years of experience in all phases of agile software development lifecycle. \n
-✔️ 5 Years of strong hands on experience building,deploying and maintaining the data extraction,transformation,validation and ingestion pipelines for large datasets using **Python, SQL and Pyspark**.\n
+✔️ Technology professional having 6 + Years of experience in all phases of agile software development lifecycle. \n
+✔️ 6 Years of strong hands on experience building,deploying and maintaining the data extraction,transformation,validation and ingestion pipelines for large datasets using **Python, SQL and Pyspark**.\n
 ✔️ 3 + Years of hands on experience developing & deploying small/mid/large web scraping solutions using **Scrapy, Requests ,Selenium, Beautifulsoup and APIs**. \n
 ✔️ 2 + Years of working experience on performing EDA and building classification models for in house data science problems. \n
 ✔️ 1 + Years of experience developing data vizualizations using PowerBI and Plotly \n
@@ -97,19 +97,19 @@ st.subheader("Professional Work History")
 st.write("---")
 url1 = 'https://www.sc.com/en/'
 st.write("🧑‍💼", "**Manager-TB Cash Analytics | [Standard Chartered Bank](%s)**" % url1)
-
+st.write("05-2024 - Present")
 st.write(
     """🚧 **Cash Client Performance View**
-- ► Architected, Developed and Deployed Reporting Application to monitor the Bank's Cash Revenue (NFI and NII) and Liabilities for Corporate Clients.
-- ► Automated data extraction from Bank's Internal Systems (Oracle BI and HDFS) using SQL, Pyspark and Shell Scripting.
-- ► Transformed the Data using Python-Polars library to build cost effective data processing modules.
-- ► Discovered the excel workbook level Encryption Method in Python to meet bank compliance.
-- ► 2000 Analytical Sales Level Reports are auto-sent to Bank Sales Executives and auto-shared the 42 Country Level Reports to Country Sales Leadership in sharepoint.
+- ► Architected, Developed and Deployed Reporting Application to monitor the Bank's Cash Revenue (NFI and NII) and Liabilities for Corporate Clients.\n
+- ► Automated data extraction from Bank's Internal Systems (Oracle BI and HDFS) using SQL, Pyspark and Shell Scripting.\n
+- ► Transformed the Data using Python-Polars library to build cost effective data processing modules.\n
+- ► Discovered the excel workbook level Encryption Method in Python to meet bank compliance.\n
+- ► 2000 Analytical Sales Level Reports are auto-sent to Bank Sales and Revenue Executives and auto-shared the 42 Country Level Reports to Country Sales Leadership in sharepoint.\n
 Tools: **Python,Pyspark,Docker,GIT,JFROG,HDFS,Polars,msoffcrypto,shell**
 """)
 
 url2 = 'https://nielseniq.com/global/en/'
-st.write("🧑‍💼", "**Senior Analyst | [NielsenIQ](%s)**" % url2)
+st.write("🧑‍💼", "**Senior Analyst | [NielsenIQ](%s)**" % url2) 
 st.write("11/2018 - 05-2024")
 
 st.write(
