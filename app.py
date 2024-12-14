@@ -100,8 +100,9 @@ st.write("🧑‍💼", "**Manager-TB Cash Analytics | [Standard Chartered Bank]
 st.write("05-2024 - Present")
 st.write(
     """🚧 **Cash Client Performance View**
-- ► Architected, Developed and Deployed Reporting Application to monitor the Bank's Cash Revenue (NFI and NII) and Liabilities for Corporate Clients.\n
-- ► Automated data extraction from Bank's Internal Systems (Oracle BI and HDFS) using SQL, Pyspark and Shell Scripting.\n
+- ► Architected, Developed and Deployed Reporting Application to monitor the Bank's Cash Revenue (NFI and NII) and Liabilities of Corporate Clients.\n
+- ► Built Analytical Data Models using Bank's Internal OLTP system(Oracle) and data lake(HDFS).\n
+- ► Automated data extractions using SQL, Pyspark and Shell Scripting.\n
 - ► Transformed the Data using Python-Polars library to build cost effective data processing modules.\n
 - ► Discovered the excel workbook level Encryption Method in Python to meet bank compliance.\n
 - ► 2000 Analytical Sales Level Reports are auto-sent to Bank Sales and Revenue Executives and auto-shared the 42 Country Level Reports to Country Sales Leadership in sharepoint.\n
