@@ -81,7 +81,7 @@ st.write(
     """
     👩‍💻 Programming: **Python | SQL** \n
     🗃️ Data Transformation APIs: **Pyspark | Pandas | Polars** \n
-    📊 Data Visulization: **PowerBI | Plotly** \n
+    📊 Front End: **PowerBI | Plotly | Streamlit** \n
     🗄️ Databases: **Oracle | Snowflake | MySQL** \n
     📚 Machine Learning: **Tree Based Classifiers | StackEnsamble Classifier | Azure ML** \n
     🚀 DevOps Tools: **Git | Bitbucket | Docker**\n
@@ -145,7 +145,7 @@ st.write(
 - ► The Bot crawls through images to get the best image, extracts the text from the images(OCR) and ingest the cleaned data into postgres DB.
 - ► Implemented python multiprocess Method on OCR algorithm to boost the OCR process.\n
 - ► wrote unit test cases for OCR and webcrawling modules. \n
-Tools: **PostgresDB, SQL, Python, Selenium, pandas, EasyOCR, git, Docker, shell**
+Tools: **PostgresDB, SQL, Python, Selenium, pandas, EasyOCR, streamlit, git, Docker, shell**
 """)
 
 st.write(
@@ -178,7 +178,7 @@ st.write(
 - ► Developed flask UI for in-house data operations team to operate these checks before the data ingested to production databases.\n
 - ► developed data validation pipelines using python-polars dataframe library.\n
 - ► wrote unit test cases for validation modules using pytest. \n
-Tools: **Python, Polars, Docker, shell, Azure-Blob,git**
+Tools: **Python, Polars, Docker, shell, streamlit, Azure-Blob,git**
 """)
 
 st.write(
