@@ -67,13 +67,13 @@ st.write(
 
 ✔️ 6+ Years of strong hands on experience building,deploying and maintaining the data extraction,transformation,validation and ingestion pipelines for large datasets using **Python, SQL and Pyspark**.\n
 ✔️ Extensive experience in the Development, Testing, and Deployment of Data Automations, Reporting and Machine Learning Applications. \n
-✔️ Have expertise in building large scale Web Scraping applications using python libraries, third party proxy services and various other chain of API methods/calls. 
-✔️ Have good experience developing RESTAPIs using FastAPI.
-✔️ Have good experience optimizing existing python applications/automations and SQL/pyspark jobs.
-✔️ Have hands on Experience Developing and Deploying ML Classification Model (replaced legacy staistical data quality methods) to reduce 50% manual data validation efforts for global enterprise platform. 
-✔️ Have professional experience working with Azure ML,ML flow, cognitive, data lake and databricks.
-✔️ Have good knowledge of FMCG(Pricing) and Banking Domains(Cash Payments, Billing and Pricing).
-✔️ Self-motivated, Adaptive, Good Communicator, and Problem Solver.
+✔️ Have expertise in building large scale Web Scraping applications using python libraries, third party proxy services and various other chain of API methods/calls. \n
+✔️ Have good experience developing RESTAPIs using FastAPI. \n
+✔️ Have good experience optimizing existing python applications/automations and SQL/pyspark jobs. \n
+✔️ Have hands on Experience Developing and Deploying ML Classification Model (replaced legacy staistical data quality methods) to reduce 50% manual data validation efforts for global enterprise platform. \n
+✔️ Have professional experience working with Azure ML,ML flow, cognitive, data lake and databricks. \n
+✔️ Have good knowledge of FMCG(Pricing) and Banking Domains(Cash Payments, Billing and Pricing). \n
+✔️ Self-motivated, Adaptive, Good Communicator, and Problem Solver. \n
 
 """
 )
