@@ -110,6 +110,7 @@ st.write(
 - ► Leveraged PySpark for large-scale ingestion and transformation to HDFS.
 - ► Built cost effective data validation modules using python-polars to implement business checks. 
 - ► Automated and orchestrated workflows using Apache Airflow for reliable, scheduled data operations.
+- ► Enabled downstream teams to access high-quality, up-to-date transaction data, reducing manual data correction efforts by 60%.
 - ► Enhanced the partition strategies by splitting data with OLTP payment engines(along with date and country). 
 Tools: **Python,Pyspark,Polars,GIT,Airflow,HDFS**
 """)
